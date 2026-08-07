@@ -1,0 +1,6 @@
+{
+  "name": "DeepResearch AI",
+  "description": "Advanced GenAI research assistant that generates summaries, detailed reports, citations, AI presentations, voice responses, mind maps, OCR extractions, and interactive analytics.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
